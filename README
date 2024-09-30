@@ -1,0 +1,2 @@
+This repository contains all code necessary for software to analyse the tyrosinase activity of colonies containing mutant tyrosianse enzymes produced by error prone PCR. 
+All code used is Python, a list of dependent repositories is below:
