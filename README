@@ -1,4 +1,8 @@
-This repository contains all code necessary for software to analyse the tyrosinase activity of colonies containing mutant tyrosianse enzymes produced by error prone PCR. 
+This repository contains all code necessary for software to analyse the tyrosinase activity of colonies containing mutant tyrosianse enzymes produced by error prone PCR.
+Two Python scripts are above:
+Script 1 - Tyrosinase_variant_screening.py = The main program for analysis of tyrosinase activity in variant colonies. Includes a graphical user interface for ease of use.
+Script 2 - The function used for analysis of values obtained from excel files containing both tyrosinase activity data (Δ400nm) and BCA data from 96-well plates.
+Also included are two excel files - one for tyrosinase activity data (Δ400nm) and the other for BCA data from a 96-well plate containing tyrosinase variant colonies.
 All code used is Python, a list of dependent repositories is below:
 -  pandas
 -  numpy
