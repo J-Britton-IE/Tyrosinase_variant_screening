@@ -12,3 +12,9 @@ All code used is Python, a list of dependent repositories is below:
 - PySimpleGUI
 - os
 
+Two excel files containing results of a BCA assay and quinone formation for a set of colonies in a 96 well plate are in this repository.
+To analyse these do the following: 
+- Upload the file "230728_RM1_P1_activity.xlsx" using the "Activity File" button. This file contains tyrosinase activity data from 88 variant colonies, and four control colonies.
+- Upload the file "230728_RM1_P1_BCA.xlsx" using the "BCA File" button. This file contains protein concentration data derived from a BCA assay of homogenates from the same 88 control colonies and four control colonies.
+- Press Analyze and then press Plot.
+
